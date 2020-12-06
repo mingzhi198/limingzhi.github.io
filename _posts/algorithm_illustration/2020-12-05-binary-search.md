@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: article 
+categories: algorithm_illustration 
 title:  "Binary Search"
 date:   2020-12-05 23:44:52 +0800
-categories: jekyll update
 ---
+[//]: * 目录
+[//]: {:toc}
 
 - This blog is used as notes for later reference after reading the book 'Algorithms an illustrated guide for programmers'
 

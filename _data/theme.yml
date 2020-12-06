@@ -1,0 +1,34 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: mingzhi198 
+  #bitbucket: philipj
+  #hacker_news: 
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  #twitter: _swanson
+  #facebook: zuck
+  zhihu: Michael.zhihu
+  #tumblr: animalygifs
+  #linkedin: philipjagielski
+  #gplus: 110552447039675960964
+  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  #flickr: johndoe
+
+# "Hi, I'm _______"
+name: Li. Mingzhi 
+email: lmingzhi618@gmail.com
+tagline: "weak opinions, strongly held"
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-xxxx-x
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true

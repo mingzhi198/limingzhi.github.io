@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: articles 
 title:  "Selection Sort"
 date:   2020-12-05 23:44:52 +0800
 categories: jekyll update
