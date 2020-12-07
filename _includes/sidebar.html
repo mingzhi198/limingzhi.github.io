@@ -1,8 +1,16 @@
 <nav>
   <h1>Hi.</h1>
   <a href="/">
-    {% if site.data.theme.social.gravatar %}
-    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
+		<style type="text/css">
+    .avatar{ 
+        margin-top: 0px; 
+        width:150px; 
+        height:150px; 
+        border-radius:150px; 
+    }
+    </style>
+		{% if site.data.theme.social.avatar %}
+    <img class="avatar" src="/images/avatar.jpeg" height="80" width="80" id="avatar" alt="My photo"/>
     {% else %}
     <img src="/logo.png" id="logo" alt="Blog logo"/>
     {% endif %}
